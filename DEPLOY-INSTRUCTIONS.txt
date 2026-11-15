@@ -1,0 +1,14 @@
+VYRA Studio V4.0.9 — GitHub and Cloudflare Pages repair
+
+All site files and media are at the ZIP root. Upload ALL files to the ROOT of your GitHub repository (not inside a folder). Replace existing files with the same names.
+
+Cloudflare Pages Git integration:
+Framework preset: None
+Build command: (blank)
+Build output directory: /
+Root directory: (blank)
+Production branch: main
+
+After deployment, test https://YOUR-PROJECT.pages.dev/vyra-eye-brand.webp directly. It should show an image, not HTML. Then hard-refresh the homepage.
+
+Frontend preview only: AI generation and production authentication are not connected.

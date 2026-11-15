@@ -1,0 +1,3 @@
+VYRA Studio V4.0.9
+Updated homepage, ambient neon, dashboard 3-video sequence, generator cleanup, logout confirmation.
+Frontend demo: AI and secure accounts not connected.
